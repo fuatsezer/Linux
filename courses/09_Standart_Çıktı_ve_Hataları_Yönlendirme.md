@@ -6,6 +6,7 @@
 `&>` hataları yazar.
 
 `&>>` hataları üzerine yazar.
+
 `EOF` consola yazılanı dosyaya yazar.
 ```console
 [fuatsezer@localhost notes]$ head -n 5 words.txt > output_directed
